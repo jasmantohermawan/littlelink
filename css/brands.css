@@ -38,6 +38,13 @@
 	--button-border:1px solid #ffffff;
 }
 
+/* Wedding */
+.button-wed {
+	--button-text:#ffffff;
+	--button-background:#2457F5;
+	--button-border:1px solid #ffffff;
+}
+
 /* Amazon */
 .button-amazon {
 	--button-text:#000000;
